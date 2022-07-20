@@ -1,0 +1,17 @@
+.blue{
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+}
+
+.white{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+}
+
+.container{
+    background-color: black;
+    display: flex;
+    width: fit-content;
+}
